@@ -34,7 +34,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> RJ Joyce is a doctoral student in the DREAM lab. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
+       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> is a doctoral student in the DREAM lab. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
     </div>
 </div>
 
