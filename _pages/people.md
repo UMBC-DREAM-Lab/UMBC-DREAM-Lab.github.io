@@ -14,7 +14,6 @@ nav: true
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         Charles K. Nicholas is the magnanimous leader of the lab. His interests include information retrieval, document processing, software engineering, and adapting this techniques to malware analysis “in the large”. 
-
     </div>
 </div>
 
