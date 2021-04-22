@@ -1,24 +1,21 @@
 ---
 layout: about
-title: about
+title: Discovery, Research, and Experimental Analysis of Malware Lab
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Discovery, Research, and Experimental Analysis of Malware
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The DREAM Lab is a research laboratory in [UMBC](www.umbc.edu)'s [Computer Science and Electrical Engineering](www.csee.umbc.edu/) department. We study machine learning and cyber security problems to combine them together, so that we can tackle the ever growing threat of malware. The amount of new malware (and often its sophistication) has been growing exponentially over time, while the supply of human analysts with the time to study and remediate these new malware is continuously limited. Therefore we want to develop new techniques to automate or argument, using machine learning, as much of the malware analysis process as possible. This way we can hopefully reduce the human capital required to defend computer systems. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This intersection is particular fun and interesting due to the wide breadth and depth of computer science skills involved. Malware is often exploiting low level details and flaws in software, often requiring depth in computer architecture, assembly, networking, and software design to understand. The machine learning tools we wish to apply in turn have their own breadth of mathematical foundations in linear algebra, calculus, and statistics. Finding all these skills in one person is rare, and so we enjoy an interdisciplinary lab working together on these research topics. This is especially true as many of the fundamental assumptions underlying modern deep learning and other machine learning methods, are routinely violated to extreme degrees, necessitating new advancements in machine learning to create new capabilities in malware analysis. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
