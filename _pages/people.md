@@ -26,7 +26,12 @@ nav: true
     </div>
 </div>
 
+
+<br>
+
 # Students
+
+<br>
 
 ## PhD
 <div class="row justify-content-sm-center">
@@ -38,6 +43,7 @@ nav: true
     </div>
 </div>
 
+<br>
 
 ## Masters Students
 <div class="row justify-content-sm-center">
@@ -59,5 +65,6 @@ nav: true
     </div>
 </div>
 
+<br>
 
 ## Undergraduate Students
