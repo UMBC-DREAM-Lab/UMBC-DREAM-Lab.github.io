@@ -1,6 +1,10 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Raff":
+  - firstname: ["Edward", "E.", "E", "Edward Raff"]
+    url: https://www.edwardraff.com/
+
+"Nicholas":
+  - firstname: ["Charles", "C.", "C. K.", "Charles K.", "Charles Nicholas"]
+    url: https://www.csee.umbc.edu/~nicholas/charles_nicholas.html
 
 "Podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
