@@ -68,8 +68,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: News Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: Lab news
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: Lab blog page
 permalink: /blog/:year/:title/
 
 # Pagination
