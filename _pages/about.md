@@ -18,4 +18,6 @@ The DREAM Lab is a research laboratory in [UMBC](www.umbc.edu)'s [Computer Sci
 
 This intersection is particular fun and interesting due to the wide breadth and depth of computer science skills involved. Malware is often exploiting low level details and flaws in software, often requiring depth in computer architecture, assembly, networking, and software design to understand. The machine learning tools we wish to apply in turn have their own breadth of mathematical foundations in linear algebra, calculus, and statistics. Finding all these skills in one person is rare, and so we enjoy an interdisciplinary lab working together on these research topics. This is especially true as many of the fundamental assumptions underlying modern deep learning and other machine learning methods, are routinely violated to extreme degrees, necessitating new advancements in machine learning to create new capabilities in malware analysis. 
 
+PI Charles Nicholas Contact: nicholas@umbc.edu
+
 
