@@ -1,25 +1,10 @@
 "Raff":
-  - firstname: ["Edward", "E.", "E", "Edward Raff"]
+  - firstname: ["Edward", "E.", "E", "Edward Raff", "Raff, Edward"]
     url: https://www.edwardraff.com/
 
 "Nicholas":
   - firstname: ["Charles", "C.", "C. K.", "Charles K.", "Charles Nicholas"]
     url: https://www.csee.umbc.edu/~nicholas/charles_nicholas.html
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
 "Eren":
   - firstname: ["Maksim", "M.", "M. E.", "Eren", Maksim E.", "Maksim Eren", "Maksim Ekin", "Maksim E. Eren", "Maksim Ekin Eren"]
