@@ -17,6 +17,8 @@ nav: true
     </div>
 </div>
 
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/edward_raff.jpg' | relative_url }}" alt="" title="Edward Raff"/>
@@ -27,7 +29,7 @@ nav: true
 </div>
 
 
-<br>
+<br><br>
 
 # Students
 
@@ -43,6 +45,8 @@ nav: true
     </div>
 </div>
 
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/rj.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
@@ -52,7 +56,7 @@ nav: true
     </div>
 </div>
 
-<br>
+<br><br>
 
 ## Masters Students
 <div class="row justify-content-sm-center">
@@ -64,6 +68,7 @@ nav: true
     </div>
 </div>
 
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -74,6 +79,6 @@ nav: true
     </div>
 </div>
 
-<br>
+<br><br>
 
 ## Undergraduate Students
