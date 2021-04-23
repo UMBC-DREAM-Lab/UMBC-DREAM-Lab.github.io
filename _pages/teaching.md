@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: There are two courses, one offered in Fall and another offered in Spring.
+description: Courses regularly offered by the faculty.
 nav: true
 ---
 
@@ -21,3 +21,9 @@ CMSC 491/691 Seminar in Active Cyberdefense This course will cover various topic
 Introduction to static and dynamic malware analysis. Basic and advanced tools are presented, both host- and web-based. Utilities to provide summary information, as well as disassemblers and debuggers, are discussed in detail. Emphasis is on analysis of realistic malware specimens from the texttbook, or found in the wild. Homeworks and exams consist of preparation of malware analysis reports isuch as those used in industry. Prerequisite is CMSC 313 or equivalent. Students are expected to have a solid grasp of programming in assembler as well as a high-level language such as C. Knowledge of operating systems and networks will be useful but is not required.
 
 
+## DATA 690 Practical Deep Learning (Fall)
+
+Website via [Blackboard](https://blackboard.umbc.edu/)
+<br>
+
+Introductory course to Deep Learning, focused on breadth and building mathematical intuition. Taught using PyTorch it starts with the “classic” neural network architectures and stochastic gradient descent, then moves into adding modern improvements like residual connections, batch normalization, and improved optimizers like Adam. The rest of the course then builds on these to cover topics like autoencoding, attention mechanisms, generative adversarial networks, machine translation, and Transformers. Prerequisites are either DATA 602 or [CMSC 478]( https://catalog.umbc.edu/preview_course_nopop.php?catoid=3&coid=5727).
