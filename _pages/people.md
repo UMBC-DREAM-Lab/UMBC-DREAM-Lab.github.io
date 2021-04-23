@@ -36,6 +36,15 @@ nav: true
 ## PhD
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/prajna_bhandary.jpg' | relative_url }}" alt="" title="Prajna Bhandary"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/pjbhandary/">Prajna Bhandary</a> is a current PhD student in CS at UMBC. Her research areas includes cryptography and malware analysis using machine learning and data science. Currently, she is researching on use of hierarchical clustering for malware analysis. She has also researched in the area of cryptographic protocol analysis.
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/rj.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
