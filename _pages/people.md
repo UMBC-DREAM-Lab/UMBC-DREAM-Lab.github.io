@@ -13,7 +13,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/charles_nicholas.jpg' | relative_url }}" alt="" title="Charles K. Nicholas"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="https://www.csee.umbc.edu/~nicholas/charles_nicholas.html">Charles K. Nicholas</a> is the magnanimous leader of the lab. His interests include information retrieval, document processing, software engineering, and adapting this techniques to malware analysis “in the large”. 
+        <a href="https://www.csee.umbc.edu/~nicholas/charles_nicholas.html">Charles K. Nicholas</a> is the magnanimous leader of the lab. His interests include information retrieval, document processing, software engineering, and adapting these techniques to malware analysis “in the large”. 
     </div>
 </div>
 
@@ -24,7 +24,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/edward_raff.jpg' | relative_url }}" alt="" title="Edward Raff"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="https://www.edwardraff.com">Edward Raff</a> performs research in a number of areas, including machine learning, malware analysis, reproducability, adversarial ML, fingerprint biometrics, and fairness in AI. He is a Chief Scientist with Booz Allen Hamilton, and a visiting associate professor at UMBC. 
+        <a href="https://www.edwardraff.com">Edward Raff</a> performs research in a number of areas, including machine learning, malware analysis, reproducibility, adversarial ML, fingerprint biometrics, and fairness in AI. He is a Chief Scientist at Booz Allen Hamilton, and a visiting associate professor at UMBC. 
     </div>
 </div>
 
@@ -41,7 +41,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/prajna_bhandary.jpg' | relative_url }}" alt="" title="Prajna Bhandary"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/pjbhandary/">Prajna Bhandary</a> is a current PhD student in CS at UMBC. Her research areas includes cryptography and malware analysis using machine learning and data science. Currently, she is researching on use of hierarchical clustering for malware analysis. She has also researched in the area of cryptographic protocol analysis.
+       <a href="https://www.linkedin.com/in/pjbhandary/">Prajna Bhandary</a> is a current PhD student in CS at UMBC. Her research areas include cryptography, malware analysis using machine learning, and data science. Currently, she is conducting research on the use of hierarchical clustering for malware analysis. She has also performed research in the area of cryptographic protocol analysis.
     </div>
 </div>
 
@@ -75,7 +75,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.maksimeren.com">Maksim Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the interdisciplinary intersection of machine learning and cyber security, with a concentration in tensor decomposition.
+       <a href="https://www.maksimeren.com">Maksim Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the intersection of the machine learning and cybersecurity disciplines, with a concentration in tensor decomposition.
     </div>
 </div>
 

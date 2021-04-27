@@ -63,7 +63,7 @@ selected={true}
 }
 @article{JMLR:v18:16-131,
 abstract = {Java Statistical Analysis Tool (JSAT) is a Machine Learning library written in pure Java. It works to fill a void in the Java ecosystem for a general purpose library that is relatively high performance and flexible, which is not adequately fulfilled by Weka (Hall et al., 2009) and Java-ML (Abeel et al., 2009). Almost all of the algorithms are independently implemented using an Object- Oriented framework. JSAT is made available under the GNU GPL license here: github.com/EdwardRaff/JSAT.},
-author = {Raff, Edward},
+author = {Edward Raff},
 journal = {Journal of Machine Learning Research},
 number = {23},
 pages = {1--5},
@@ -137,7 +137,7 @@ pdf={http://arxiv.org/pdf/1804.00069},
 year = {2018}
 }
 @inproceedings{NEURIPS2019_c429429b,
- author = {Raff, Edward},
+ author = {Edward Raff},
  abstract = {What makes a paper independently reproducible? Debates on reproducibility center around intuition or assumptions but lack empirical results. Our field focuses on releasing code, which is important, but is not sufficient for determining reproducibility. We take the first step toward a quantifiable answer by manually attempting to implement 255 papers published from 1984 until 2017, recording features of each paper, and performing statistical analysis of the results. For each paper, we did not look at the authors code, if released, in order to prevent bias toward discrepancies between code and paper.},
  booktitle = {Advances in Neural Information Processing Systems},
  pages = {},
@@ -364,7 +364,7 @@ pdf={https://arxiv.org/pdf/2008.00325.pdf}
 abstract = {There has been increasing concern within the machine learning community that we are in a reproducibility crisis. As many have begun to work on this problem, all work we are aware of treat the issue of reproducibility as an intrinsic binary property: a paper is or is not reproducible. Instead, we consider modeling the reproducibility of a paper as a survival analysis problem. We argue that this perspective represents a more accurate model of the underlying meta-science question of reproducible research, and we show how a survival analysis allows us to draw new insights that better explain prior longitudinal data. The data and code can be found at https://github.com/EdwardRaff/Research-Reproducibility-Survival-Analysis},
 archivePrefix = {arXiv},
 arxivId = {2012.09932},
-author = {Raff, Edward},
+author = {Edward Raff},
 booktitle = {The Thirty-Fifth AAAI Conference on Artificial Intelligence},
 eprint = {2012.09932},
 title = {{Research Reproducibility as a Survival Analysis}},
@@ -1329,3 +1329,15 @@ selected={true}
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+@inproceedings{Bouthillier2021,
+abstract = {Strong empirical evidence that one machine-learning algorithm A outperforms another one B ideally calls for multiple trials optimizing the learning pipeline over sources of variation such as data sampling, data augmentation, parameter initialization, and hyperparameters choices. This is prohibitively expensive, and corners are cut to reach conclusions. We model the whole benchmarking process, revealing that variance due to data sampling, parameter initialization and hyperparameter choice impact markedly the results. We analyze the predominant comparison methods used today in the light of this variance. We show a counter-intuitive result that adding more sources of variation to an imperfect estimator approaches better the ideal estimator at a 51 times reduction in compute cost. Building on these results, we study the error rate of detecting improvements, on five different deep-learning tasks/architectures. This study leads us to propose recommendations for performance comparisons.},
+archivePrefix = {arXiv},
+arxivId = {2103.03098},
+author = {Bouthillier, Xavier and Delaunay, Pierre and Bronzi, Mirko and Trofimov, Assya and Nichyporuk, Brennan and Szeto, Justin and Sepah, Naz and Raff, Edward and Madan, Kanika and Voleti, Vikram and Kahou, Samira Ebrahimi and Michalski, Vincent and Serdyuk, Dmitriy and Arbel, Tal and Pal, Chris and Varoquaux, Ga{\"{e}}l and Vincent, Pascal},
+booktitle = {Machine Learning and Systems (MLSys)},
+eprint = {2103.03098},
+title = {{Accounting for Variance in Machine Learning Benchmarks}},
+url = {http://arxiv.org/abs/2103.03098},
+pdf = {http://arxiv.org/pdf/2103.03098},
+year = {2021}
+}
