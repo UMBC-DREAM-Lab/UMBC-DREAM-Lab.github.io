@@ -63,7 +63,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Ran Liu"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       Ran Liu is a Ph.D. student in the Computer Science & Engineering Department at the University of Maryland, Baltimore Country advised by professor Kangjie Lu. He received his graduate M.S. in the Information Science & Engineering Department of the University of California, Santa Barbara in 2018. His primary research interest is to implement machine learning and quantum computation techniques into the malware analysis field.
+       Ran Liu is a Ph.D. student advised by professor Charles Nicholas. He received his Master of Computer Science Degree from the University of California, Santa Barbara in 2018. His primary research interest includes machine learning, quantum computation and malware analysis.
     </div>
 </div>
 
@@ -93,3 +93,4 @@ nav: true
 <br><br>
 
 ## Undergraduate Students
+
