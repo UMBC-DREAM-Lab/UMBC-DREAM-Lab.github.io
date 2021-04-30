@@ -67,6 +67,18 @@ nav: true
     </div>
 </div>
 
+<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/andre_nguyen.jpg' | relative_url }}" alt="" title="Andre Nguyen"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://scholar.google.com/citations?user=gVzxOBAAAAAJ&hl=en">Andre Nguyen</a> is a PhD student at UMBC and a machine learning researcher at Booz Allen Hamilton working primarily on adversarial defense, cyber, and computational epidemiology research. Andre graduated from Harvard with a Bachelor's in Applied Mathematics and Computer Science. 
+    </div>
+</div>
+
+
 <br><br>
 
 ## Masters Students
