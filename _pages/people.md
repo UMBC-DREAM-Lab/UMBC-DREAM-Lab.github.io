@@ -28,10 +28,21 @@ nav: true
     </div>
 </div>
 
+<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/peter_olsen.jpg' | relative_url }}" alt="" title="Peter Olsen"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        Peter Olsen is a retired Coast Guard officer and former Aviator with an interest in using mathematical models to predict and measure performance, particularly in military systems.  He was the principal author of the management model used to allocate more than $4 billion in the Exxon Valdez oil-spill cleanup.  Mr. Olsen is a Research Associate with the UMBC Department of Computer Science and Electrical Engineering and a retired Registered Mechanical Engineer.
+    </div>
+</div>
+
 
 <br><br>
 
-# Students
+# Current Students
 
 <br>
 
@@ -81,7 +92,7 @@ nav: true
 
 <br><br>
 
-## Masters Students
+## Masters
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
@@ -104,5 +115,12 @@ nav: true
 
 <br><br>
 
-## Undergraduate Students
+## Undergraduate
+
+
+<br><br>
+
+# Alumni
+
+<br>
 
