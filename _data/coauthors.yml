@@ -1,11 +1,15 @@
 "Raff":
   - firstname: ["Edward", "E.", "E", "Edward Raff", "Raff, Edward"]
     url: https://www.edwardraff.com/
+    
+"Nguyen":
+  - firstname: ["Andre", "A.", "A", "Andre Nguyen", "A. T.", "A. T. Nguyen", "Andre T. Nguyen", "Nguyen, Andre", "Nguyen, Andre T.", "André", "André Nguyen", "André T. Nguyen", "Nguyen, André", "Nguyen, André T."]
+    url: https://www.andretnguyen.com/
 
 "Nicholas":
   - firstname: ["Charles", "C.", "C. K.", "Charles K.", "Charles Nicholas"]
     url: https://www.csee.umbc.edu/~nicholas/charles_nicholas.html
 
 "Eren":
-  - firstname: ["Maksim", "M.", "M. E.", "Eren", Maksim E.", "Maksim Eren", "Maksim Ekin", "Maksim E. Eren", "Maksim Ekin Eren"]
+  - firstname: ["Maksim", "M.", "M. E.", "Eren", "Maksim E.", "Maksim Eren", "Maksim Ekin", "Maksim E. Eren", "Maksim Ekin Eren"]
     url: https://www.maksimeren.com
