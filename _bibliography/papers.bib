@@ -1,12 +1,34 @@
 ---
 ---
+@inbook{eren2021DocEng21,
+ author = {Eren, Maksim Ekin and Solovyev, Nick and Hamer, Chris and McDonald, Renee and Alexandrov, Boian and Nicholas, Charles},
+ title = {COVID-19 Multidimensional Kaggle Literature Organization},
+ year = {2021},
+ publisher = {Association for Computing Machinery},
+ address = {New York, NY, USA},
+ url = {https://doi.org/10.1145/3469096.3474927},
+ pdf = {https://arxiv.org/pdf/2107.08190.pdf},
+ abstract = {The unprecedented outbreak of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), or COVID-19, continues to be a significant worldwide problem. As a result, a surge of new COVID-19 related research has followed suit. The growing number of publications requires document organization methods to identify relevant information. In this paper, we expand upon our previous work with clustering the CORD-19 dataset by applying multi-dimensional analysis methods. Tensor factorization is a powerful unsupervised learning method capable of discovering hidden patterns in a document corpus. We show that a higher-order representation of the corpus allows for the simultaneous grouping of similar articles, relevant journals, authors with similar research interests, and topic keywords. These groupings are identified within and among the latent components extracted via tensor decomposition. We further demonstrate the application of this method with a publicly available interactive visualization of the dataset.},
+ numpages = {4} }
+
+@misc{eren2021RFoT,
+      title={Random Forest of Tensors (RFoT)}, 
+      author={Eren, Maksim Ekin and Nicholas, Charles and McDonald, Renee and Hamer, Chris},
+      abstract={Machine learning has become an invaluable tool in the fight against malware. Traditional supervised and unsupervised methods are not designed to capture the multi-dimensional details that are often present in cyber data. In contrast, tensor factorization is a powerful unsupervised data analysis method for extracting the latent patterns that are hidden in a multi-dimensional corpus. In this poster we explore the application of tensors to classification, and we describe a hybrid model that leverages the strength of multi-dimensional analysis combined with clustering. We introduce a novel semi-supervised ensemble classifier named Random Forest of Tensors (RFoT) that is based on generating a forest of tensors in parallel, which share the same first dimension, and randomly selecting the remainder of the dimensions and entries of each tensor from the features set.},
+      year={2021},
+      note={Presented at the 12th Annual Malware Technical Exchange Meeting, Online, 2021},
+      url = {https://www.maksimeren.com/publication/eren_rfot_mtem2021/},
+      pdf= {https://www.maksimeren.com/poster/Random_Forest_of_Tensors_RFoT_MTEM.pdf},
+      journal={Presented at the 12th Annual Malware Technical Exchange Meeting, Online, 2021}
+}
+
 @article{boutsikas2021evading,
   title={Evading Malware Classifiers via Monte Carlo Mutant Feature Discovery},
   author={Boutsikas, John and Eren, Maksim Ekin and Varga, Charles and Raff, Edward and Matuszek, Cynthia and Nicholas, Charles},
   abstract = {The use of Machine Learning has become a significant part of malware detection efforts due to the influx of new malware, an ever changing threat landscape, and the ability of Machine Learning methods to discover meaningful distinctions between malicious and benign software. Antivirus vendors have also begun to widely utilize malware classifiers based on dynamic and static malware analysis features. Therefore, a malware author might make evasive binary modifications against Machine Learning models as part of the malware development life cycle to execute an attack successfully. This makes the studying of possible classifier evasion strategies an essential part of cyber defense against malice. To this extent, we stage a grey box setup to analyze a scenario where the malware author does not know the target classifier algorithm, and does not have access to decisions made by the classifier, but knows the features used in training. In this experiment, a malicious actor trains a surrogate model using the EMBER-2018 dataset to discover binary mutations that cause an instance to be misclassified via a Monte Carlo tree search. Then, mutated malware is sent to the victim model that takes the place of an antivirus API to test whether it can evade detection.},
   url = {https://arxiv.org/abs/2106.07860},
   pdf={https://arxiv.org/pdf/2106.07860.pdf},
-  journal={Presented at the Malware Technical Exchange Meeting, Online,2021.},
+  journal={Presented at the 12th Annual Malware Technical Exchange Meeting, Online, 2021},
   year={2021}
 }
 @string{aps = {American Physical Society,}}
