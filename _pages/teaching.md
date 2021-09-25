@@ -6,7 +6,7 @@ description: Courses regularly offered by the faculty.
 nav: true
 ---
 
-## CMSC 491/791 Active Cyber Defense (Fall)
+## CMSC 491/691 Active Cyber Defense (Fall)
 
 [Course Website](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
 <br>
