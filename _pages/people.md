@@ -89,16 +89,14 @@ nav: true
     </div>
 </div>
 
+<br>
 
-<br><br>
-
-## Masters
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.maksimeren.com">Maksim Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the intersection of the machine learning and cybersecurity disciplines, with a concentration in tensor decomposition.
+       <a href="https://www.maksimeren.com">Maksim E. Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the intersection of the machine learning and cybersecurity disciplines, with a concentration in tensor decomposition.
     </div>
 </div>
 
@@ -106,21 +104,44 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/charles_varga.jpg' | relative_url }}" alt="" title="Charles Varga"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="John Boutsikas"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/cvar-ga/">Charles Varga</a> is a graduate student pursuing an MS in Computer Science with a focus on cybersecurity. He has received a BS Cum Laude in Computer Science from UMBC and completed multiple internships throughout his academic career, including his current internship as a graduate assistant in the Advanced Course in Engineering (ACE) at the Griffiss Institute (GI). Charles’s professional interests include red teaming, malware analysis, and machine learning.
+       <a href="https://www.linkedin.com/in/john-boutsikas-aa9179129/">John Boutsikas</a> is a PhD student at UMBC in Computer Science. He received his BSc degree in Computer Science at the University of Sheffield, CITY College with a First Class degree. His research interests include real-time graphics and rendering, with a dash of malware analysis and machine learning. In his off time he works with VR and AR applications, as well as developing his own rendering engine.
     </div>
 </div>
+
+
+<br><br>
+
+## Masters
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Tirth J. Patel"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/tirth-j-patel/">Tirth J. Patel</a> is currently an MS student at UMBC. He got his BS in Information and Communication Technology from Dhirubhai Institute of Information and Communication Technology. Along with carrying out research work at the DREAM Lab, he is also a teaching assistant for the Principles of Human-Robot Interaction class this semester. His main interest lies in Machine Learning, Natural Language Processing, Data Science, and Deep Learning. Currently, he is working on the Malware Data Science project which involves the evaluation of malware families over different classifiers.
+    </div>
+</div>
+
 
 <br><br>
 
 ## Undergraduate
 
-
 <br><br>
 
 # Alumni
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/charles_varga.jpg' | relative_url }}" alt="" title="Charles Varga"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/cvar-ga/">Charles Varga</a> is a graduate student pursuing an MS in Computer Science with a focus on cybersecurity. He has received a BS Cum Laude in Computer Science from UMBC and completed multiple internships throughout his academic career, including his most recent internship as a graduate assistant in the Advanced Course in Engineering (ACE) at the Griffiss Institute (GI). Charles’s professional interests include red teaming, malware analysis, and machine learning. Charles is currently employed by New York City Cyber Command.
+    </div>
+</div>
 
 <br>
 
