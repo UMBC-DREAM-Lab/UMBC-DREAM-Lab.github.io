@@ -145,3 +145,14 @@ nav: true
 
 <br>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Nicholas K. Solovyev"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/nick-k-solovyev/">Nicholas K. Solovyev</a> graduated Cum Laude from UMBC in December 2020 with a BS in Computer Science. He is currently pursuing a Computer Science and Systems MS at the University of Washington. His research interests include computer vision, natural language processing, and robotics. While studying at UMBC, Nick worked on image processing at NASA Goddard and applied computer vision for LSA Autonomy, interning for both roles. He continued working at LSA Autonomy as a Junior Software Engineer until he left Maryland to pursue his graduate degree. His work with the DREAM Lab includes two published papers on organizing the COVID-19 Open Research Dataset (CORD-19).
+    </div>
+</div>
+
+<br>
+
