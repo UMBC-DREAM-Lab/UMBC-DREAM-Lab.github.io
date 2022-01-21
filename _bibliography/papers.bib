@@ -1,5 +1,46 @@
 ---
 ---
+@misc{joyce2021motif,
+      title={MOTIF: A Large Malware Reference Dataset with Ground Truth Family Labels},
+      abstract={Malware family classification is a significant issue with public safety and research implications that has been hindered by the high cost of expert labels. The vast majority of corpora use noisy labeling approaches that obstruct definitive quantification of results and study of deeper interactions. In order to provide the data needed to advance further, we have created the Malware Open-source Threat Intelligence Family (MOTIF) dataset. MOTIF contains 3,095 malware samples from 454 families, making it the largest and most diverse public malware dataset with ground truth family labels to date, nearly 3x larger than any prior expert-labeled corpus and 36x larger than the prior Windows malware corpus. MOTIF also comes with a mapping from malware samples to threat reports published by reputable industry sources, which both validates the labels and opens new research opportunities in connecting opaque malware samples to human-readable descriptions. This enables important evaluations that are normally infeasible due to non-standardized reporting in industry. For example, we provide aliases of the different names used to describe the same malware family, allowing us to benchmark for the first time accuracy of existing tools when names are obtained from differing sources. Evaluation results obtained using the MOTIF dataset indicate that existing tasks have significant room for improvement, with accuracy of antivirus majority voting measured at only 62.10% and the well-known AVClass tool having just 46.78% accuracy. Our findings indicate that malware family classification suffers a type of labeling noise unlike that studied in most ML literature, due to the large open set of classes that may not be known from the sample under consideration.},
+      author={Robert J. Joyce and Dev Amlani and Charles Nicholas and Edward Raff},
+      year={2021},
+      eprint={2111.15031},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2111.15031v1},
+      pdf={https://arxiv.org/pdf/2111.15031v1.pdf}
+}
+
+
+
+@article{joyce2021agtr,
+   title={A Framework for Cluster and Classifier Evaluation in the Absence of Reference Labels},
+   abstract={In some problem spaces, the high cost of obtaining ground truth labels necessitates use of lower quality reference datasets. It is difficult to benchmark model performance using these datasets, as evaluation results may be biased. We propose a supplement to using reference labels, which we call an approximate ground truth refinement (AGTR). Using an AGTR, we prove that bounds on specific metrics used to evaluate clustering algorithms and multi-class classifiers can be computed without reference labels. We also introduce a procedure that uses an AGTR to identify inaccurate evaluation results produced from datasets of dubious quality. Creating an AGTR requires domain knowledge, and malware family classification is a task with robust domain knowledge approaches that support the construction of an AGTR. We demonstrate our AGTR evaluation framework by applying it to a popular malware labeling tool to diagnose over-fitting in prior testing and evaluate changes whose impact could not be meaningfully quantified under previous data.},
+   url={http://dx.doi.org/10.1145/3474369.3486867},
+   DOI={10.1145/3474369.3486867},
+   journal={Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security},
+   publisher={ACM},
+   author={Joyce, Robert J. and Raff, Edward and Nicholas, Charles},
+   year={2021},
+   month={Nov},
+   url={https://dl.acm.org/doi/10.1145/3474369.3486867},
+   pdf={https://arxiv.org/pdf/2109.11126.pdf}
+}
+
+
+@misc{joyce2021rank1,
+      title={Rank-1 Similarity Matrix Decomposition For Modeling Changes in Antivirus Consensus Through Time}, 
+      abstract={Although groups of strongly correlated antivirus engines are known to exist, at present there is limited understanding of how or why these correlations came to be. Using a corpus of 25 million VirusTotal reports representing over a decade of antivirus scan data, we challenge prevailing wisdom that these correlations primarily originate from "first-order" interactions such as antivirus vendors copying the labels of leading vendors. We introduce the Temporal Rank-1 Similarity Matrix decomposition (R1SM-T) in order to investigate the origins of these correlations and to model how consensus amongst antivirus engines changes over time. We reveal that first-order interactions do not explain as much behavior in antivirus correlation as previously thought, and that the relationships between antivirus engines are highly volatile. We make recommendations on items in need of future study and consideration based on our findings.},
+      author={Robert J. Joyce and Edward Raff and Charles Nicholas},
+      year={2021},
+      eprint={2201.00757},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2201.00757},
+      pdf={https://arxiv.org/pdf/2201.00757.pdf}
+}
+
 @inproceedings{eren2021DocEng21,
  abstract = {The unprecedented outbreak of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), or COVID-19, continues to be a significant worldwide problem. As a result, a surge of new COVID-19 related research has followed suit. The growing number of publications requires document organization methods to identify relevant information. In this paper, we expand upon our previous work with clustering the CORD-19 dataset by applying multi-dimensional analysis methods. Tensor factorization is a powerful unsupervised learning method capable of discovering hidden patterns in a document corpus. We show that a higher-order representation of the corpus allows for the simultaneous grouping of similar articles, relevant journals, authors with similar research interests, and topic keywords. These groupings are identified within and among the latent components extracted via tensor decomposition. We further demonstrate the application of this method with a publicly available interactive visualization of the dataset.},
 author = {Eren, Maksim Ekin and Solovyev, Nick and Hamer, Chris and McDonald, Renee and Alexandrov, Boian and Nicholas, Charles},
