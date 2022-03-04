@@ -119,6 +119,15 @@ nav: true
 
 ## Undergraduate
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/iman_adetunji.jpg' | relative_url }}" alt="" title="Iman Adetunji"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/imanadetunji/">Iman Adetunji</a> is a current first-year Computer Science student and a Scholar in the Center for Women in Technology (CWIT) program at UMBC. Her interests include Machine Learning, cybersecurity, and software engineering. She is currently conducting research in the DREAM Lab as a part of the Louis Stokes Alliance for Minority Participation (LSAMP) Program at UMBC.
+    </div>
+</div>
+
 <br><br>
 
 # Alumni
