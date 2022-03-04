@@ -82,17 +82,6 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/andre_nguyen.jpg' | relative_url }}" alt="" title="Andre Nguyen"/>
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://scholar.google.com/citations?user=gVzxOBAAAAAJ&hl=en">Andre Nguyen</a> is a PhD student at UMBC and a machine learning researcher at Booz Allen Hamilton working primarily on adversarial defense, cyber, and computational epidemiology research. Andre graduated from Harvard with a Bachelor's in Applied Mathematics and Computer Science. 
-    </div>
-</div>
-
-<br>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -133,6 +122,17 @@ nav: true
 <br><br>
 
 # Alumni
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/andre_nguyen.jpg' | relative_url }}" alt="" title="Andre Nguyen"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://scholar.google.com/citations?user=gVzxOBAAAAAJ&hl=en">Andre Nguyen</a> is the director of machine learning at JURA Bio, Inc., an early-stage therapeutics company focusing on developing and delivering cell-based therapies for the treatment of autoimmune and immune-related neurodegenerative disease. Before JURA, Andre was a machine learning researcher at Booz Allen Hamilton working primarily on adversarial defense, cybersecurity, and synthetic data research. At Booz Allen, Andre also architected cloud data platforms and delivered for clients in the pharmacovigilance space. Andre completed a PhD in Computer Science at UMBC and a Bachelor's in Applied Mathematics at Harvard. 
+    </div>
+</div>
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
