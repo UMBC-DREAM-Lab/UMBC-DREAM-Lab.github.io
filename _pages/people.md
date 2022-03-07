@@ -130,6 +130,17 @@ nav: true
 
 <br><br>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/auguste_kiendrebeogo.jpg' | relative_url }}" alt="" title="Auguste Kiendrebeogo"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/auguste-kiendrebeogo/">Auguste Kiendrebeogo</a> is a double major junior in Computer Science with the cybersecurity track and Information Systems student at the University of Maryland, Baltimore County (UMBC).  He is also a Scholarship for Service (SFS) scholarship awardee. His research interest includes the application of machine learning to cybersecurity.
+    </div>
+</div>
+
+<br><br>
+
 # Alumni
 
 <div class="row justify-content-sm-center">
