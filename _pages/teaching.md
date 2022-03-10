@@ -13,7 +13,7 @@ nav: true
 
 CMSC 491/691 Seminar in Active Cyberdefense This course will cover various topics in cybersecurity that have proven relevant in the workplace as well as inter-collegiatge cyberdefense competitions. Topics will be drawn from UNIX and Windows system administration, applied cryptography, secure coding practices, network attacks, software-defined networks, and web exploitation. Participation in the form of individual and group projects will be the basis for grading. Prerequisite: CMSC 341.
 
-## CMSC 491/691 Malware Analysis (Spring)
+## CMSC 449/691 Malware Analysis (Spring)
 
 [Course Website](https://www.csee.umbc.edu/courses/undergraduate/CMSC491malware/)
 <br>
