@@ -1,5 +1,15 @@
 ---
 ---
+@article{eren2022fedsplit,
+  title={FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation},
+  author={Eren, Maksim E and Richards, Luke E and Bhattarai, Manish and Yus, Roberto and Nicholas, Charles and Alexandrov, Boian S},
+  journal={arXiv preprint arXiv:2205.02359},
+  year={2022},
+  url = {https://arxiv.org/abs/2205.02359},
+  pdf={{https://arxiv.org/pdf/2205.02359.pdf}},
+  abstract={Non-negative matrix factorization (NMF) with missing-value completion is a well-known effective Collaborative Filtering (CF) method used to provide personalized user recommendations. However, traditional CF relies on the privacy-invasive collection of users' explicit and implicit feedback to build a central recommender model. One-shot federated learning has recently emerged as a method to mitigate the privacy problem while addressing the traditional communication bottleneck of federated learning. In this paper, we present the first unsupervised one-shot federated CF implementation, named FedSPLIT, based on NMF joint factorization. In our solution, the clients first apply local CF in-parallel to build distinct client-specific recommenders. Then, the privacy-preserving local item patterns and biases from each client are shared with the processor to perform joint factorization in order to extract the global item patterns. Extracted patterns are then aggregated to each client to build the local models via knowledge distillation. In our experiments, we demonstrate the feasibility of our approach with standard recommendation datasets. FedSPLIT can obtain similar results than the state of the art (and even outperform it in certain situations) with a substantial decrease in the number of communications.}
+}
+
 @inproceedings{9280524,
   author={Eren, Maksim Ekin and Moore, Juston and Alexandrov, Boian},
   booktitle={2020 IEEE International Conference on Intelligence and Security Informatics (ISI)}, 
