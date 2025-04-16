@@ -1,5 +1,31 @@
 ---
 ---
+
+@inproceedings{bhandary_ransomware_nodate,
+	title = {Ransomware Evolution: Unveiling Patterns Using {HDBSCAN}},
+	abstract = {This research presents an innovative approach to enhancing ransomware detection by leveraging Windows {API} calls and {PE} header information to develop precise signatures capable of identifying ransomware families. Our methodology introduces a novel application of hierarchical clustering using the {HDBSCAN} algorithm, in conjunction with the Jaccard similarity metric, to cluster ransomware into discrete families and generate corresponding signatures. This technique, to our knowledge, marks a pioneering effort in applying hierarchical density-based clustering to over 1.1 million malicious samples, specifically focusing on ransomware and using the clusters to automatically generate signatures.},
+    pages = {174--189},
+    booktitle = {},
+    year = {2024},
+    author = {Bhandary, Prajna and Joyce, Robert J and Nicholas, Charles},
+	langid = {english},
+	doi = {https://ceur-ws.org/Vol-3920/paper10.pdf},
+}
+
+@misc{joyce_maldict_2023,
+	title = {{MalDICT}: {Benchmark} {Datasets} on {Malware} {Behaviors}, {Platforms}, {Exploitation}, and {Packers}},
+	shorttitle = {{MalDICT}},
+	url = {http://arxiv.org/abs/2310.11706},
+	abstract = {Existing research on malware classification focuses almost exclusively on two tasks: distinguishing between malicious and benign files and classifying malware by family. However, malware can be categorized according to many other types of attributes, and the ability to identify these attributes in newly-emerging malware using machine learning could provide significant value to analysts. In particular, we have identified four tasks which are under-represented in prior work: classification by behaviors that malware exhibit, platforms that malware run on, vulnerabilities that malware exploit, and packers that malware are packed with. To obtain labels for training and evaluating ML classifiers on these tasks, we created an antivirus (AV) tagging tool called ClarAVy. ClarAVy's sophisticated AV label parser distinguishes itself from prior AV-based taggers, with the ability to accurately parse 882 different AV label formats used by 90 different AV products. We are releasing benchmark datasets for each of these four classification tasks, tagged using ClarAVy and comprising nearly 5.5 million malicious files in total. Our malware behavior dataset includes 75 distinct tags - nearly 7x more than the only prior benchmark dataset with behavioral tags. To our knowledge, we are the first to release datasets with malware platform and packer tags.},
+	urldate = {2024-02-29},
+	publisher = {arXiv},
+	author = {Joyce, Robert J. and Raff, Edward and Nicholas, Charles and Holt, James},
+	month = oct,
+	year = {2023},
+	note = {arXiv:2310.11706 [cs]},
+	keywords = {Computer Science - Cryptography and Security},
+}
+
 @article{eren2022fedsplit,
   title={FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation},
   author={Eren, Maksim E and Richards, Luke E and Bhattarai, Manish and Yus, Roberto and Nicholas, Charles and Alexandrov, Boian S},
