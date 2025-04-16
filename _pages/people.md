@@ -39,6 +39,15 @@ nav: true
     </div>
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/rj.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> is a doctoral student in the DREAM lab. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
+    </div>
+</div>
+
 
 <br><br>
 
@@ -60,10 +69,12 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/rj.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Raguvir S"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> is a doctoral student in the DREAM lab. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
+        Raguvir \n
+        Info forthcoming
+
     </div>
 </div>
 
@@ -71,10 +82,11 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/ran_liu.jpg' | relative_url }}" alt="" title="Ran Liu"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Bojing(Tim) Li"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       Ran Liu is a Ph.D. student advised by professor Charles Nicholas. He received his Master of Computer Science Degree from the University of California, Santa Barbara in 2020. His primary research interest includes machine learning, quantum computation and malware analysis.
+       Bojing \n
+       Info forthcoming
     </div>
 </div>
 
@@ -82,10 +94,11 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Drew Barlow"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.maksimeren.com">Maksim E. Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the intersection of the machine learning and cybersecurity disciplines, with a concentration in tensor decomposition.
+       Drew Barlow \n
+       Info forthcoming
     </div>
 </div>
 
@@ -107,10 +120,11 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Tirth J. Patel"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Bharath Kumar Swargam"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/tirth-j-patel/">Tirth J. Patel</a> is currently an MS student at UMBC. He got his BS in Information and Communication Technology from Dhirubhai Institute of Information and Communication Technology. Along with carrying out research work at the DREAM Lab, he is also a teaching assistant for the Principles of Human-Robot Interaction class this semester. His main interest lies in Machine Learning, Natural Language Processing, Data Science, and Deep Learning. Currently, he is working on the Malware Data Science project which involves the evaluation of malware families over different classifiers.
+       Bharath Kumar Swargam \n
+       Info forthcoming
     </div>
 </div>
 
@@ -142,6 +156,38 @@ nav: true
 <br><br>
 
 # Alumni
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/ran_liu.jpg' | relative_url }}" alt="" title="Ran Liu"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       Ran Liu is a Ph.D. student advised by professor Charles Nicholas. He received his Master of Computer Science Degree from the University of California, Santa Barbara in 2020. His primary research interest includes machine learning, quantum computation and malware analysis.
+    </div>
+</div>
+
+<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/maksim_eren.jpg' | relative_url }}" alt="" title="Maksim E. Eren"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.maksimeren.com">Maksim E. Eren</a> is a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). He received a BS in Computer Science Summa Cum Laude at UMBC and currently conducts research at UMBC and works as a Research Assitant at Los Alamos National Laboratory (LANL). His research interests lie at the intersection of the machine learning and cybersecurity disciplines, with a concentration in tensor decomposition.
+    </div>
+</div>
+
+<br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Tirth J. Patel"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/tirth-j-patel/">Tirth J. Patel</a> is currently an MS student at UMBC. He got his BS in Information and Communication Technology from Dhirubhai Institute of Information and Communication Technology. Along with carrying out research work at the DREAM Lab, he is also a teaching assistant for the Principles of Human-Robot Interaction class this semester. His main interest lies in Machine Learning, Natural Language Processing, Data Science, and Deep Learning. Currently, he is working on the Malware Data Science project which involves the evaluation of malware families over different classifiers.
+    </div>
+</div>
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
