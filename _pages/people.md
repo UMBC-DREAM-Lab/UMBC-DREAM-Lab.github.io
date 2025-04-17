@@ -39,12 +39,14 @@ nav: true
     </div>
 </div>
 
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/rj.jpg' | relative_url }}" alt="" title="RJ Joyce"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> is a doctoral student in the DREAM lab. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
+       <a href="https://www.linkedin.com/in/rj-joyce/">RJ Joyce</a> graduated with his Ph.D. in Computer Science degree in 2024 and has been working as a faculty member with UMBC. His research applies machine learning and data science to the field of malware analysis. He is particularly interested in antivirus label dynamics and metadata hashing. RJ is also a long-time member of the UMBC CyberDawgs and a frequent participant in cybersecurity competitions.
     </div>
 </div>
 
@@ -61,7 +63,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/prajna_bhandary.jpg' | relative_url }}" alt="" title="Prajna Bhandary"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/pjbhandary/">Prajna Bhandary</a> is a current PhD student in CS at UMBC. Her research areas include cryptography, malware analysis using machine learning, and data science. Currently, she is conducting research on the use of hierarchical clustering for malware analysis. She has also performed research in the area of cryptographic protocol analysis.
+       <a href="https://www.linkedin.com/in/pjbhandary/">Prajna Bhandary</a> is a current PhD candidate in CS at UMBC. Her research focuses on malware analysis using machine learning, as well as broader topics in data science. She has worked on hierarchical clustering techniques for malware classification, and is currently investigating ransomware behavior within Active Directory environments. In addition to her current work, she has previously conducted research in cryptographic protocol analysis.
     </div>
 </div>
 
@@ -69,12 +71,10 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Raguvir S"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/Raguvir_photo.jpg' | relative_url }}" alt="" title="Raguvir S"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        Raguvir \n
-        Info forthcoming
-
+        <a href="https://www.linkedin.com/in/raguvir-s/">Raguvir S</a> is a current PhD student in CS at UMBC. His research interest includes malware analysis using clustering, LLMs and Data Science. His current research involves the use of minhash techniques to speed up hierarchical clustering for malware datasets.
     </div>
 </div>
 
@@ -82,11 +82,10 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Bojing(Tim) Li"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/Bojing_photo.png' | relative_url }}" alt="" title="Bojing(Tim) Li"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       Bojing \n
-       Info forthcoming
+       <a href="https://www.linkedin.com/in/bojing-tim-li-a5252b298/">Bojing(Tim) Li</a> is a Ph.D. student at UMBC. His research focuses on data science and feature engineering in malware analysis. He is passionate about exploring how different types of features reflect the function and intent of malware and how features evolve across categories and families. He has built a malware source code level dataset and is expanding it to static feature level and dynamic feature level.
     </div>
 </div>
 
@@ -103,28 +102,12 @@ nav: true
 </div>
 
 <br>
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="John Boutsikas"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/Bharath_photo.jpg' | relative_url }}" alt="" title="Bharath Kumar Swargam"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/john-boutsikas-aa9179129/">John Boutsikas</a> is a PhD student at UMBC in Computer Science. He received his BSc degree in Computer Science at the University of Sheffield, CITY College with a First Class degree. His research interests include real-time graphics and rendering, with a dash of malware analysis and machine learning. In his off time he works with VR and AR applications, as well as developing his own rendering engine.
-    </div>
-</div>
-
-
-<br><br>
-
-## Masters
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Bharath Kumar Swargam"/>
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-       Bharath Kumar Swargam \n
-       Info forthcoming
+       <a href="https://www.linkedin.com/in/bharathswargam/">Bharath Kumar Swargam</a> is a student in Master's in Data Science at UMBC. He is working on outlier detection in malware analysis.
     </div>
 </div>
 
@@ -132,26 +115,6 @@ nav: true
 <br><br>
 
 ## Undergraduate
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/iman_adetunji.jpg' | relative_url }}" alt="" title="Iman Adetunji"/>
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/imanadetunji/">Iman Adetunji</a> is a current first-year Computer Science student and a Scholar in the Center for Women in Technology (CWIT) program at UMBC. Her interests include Machine Learning, cybersecurity, and software engineering. She is currently conducting research in the DREAM Lab as a part of the Louis Stokes Alliance for Minority Participation (LSAMP) Program at UMBC.
-    </div>
-</div>
-
-<br><br>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/auguste_kiendrebeogo.jpg' | relative_url }}" alt="" title="Auguste Kiendrebeogo"/>
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/auguste-kiendrebeogo/">Auguste Kiendrebeogo</a> is a double major junior in Computer Science with the cybersecurity track and Information Systems student at the University of Maryland, Baltimore County (UMBC).  He is also a Scholarship for Service (SFS) scholarship awardee. His research interest includes the application of machine learning to cybersecurity.
-    </div>
-</div>
 
 <br><br>
 
@@ -222,3 +185,25 @@ nav: true
 
 <br>
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/iman_adetunji.jpg' | relative_url }}" alt="" title="Iman Adetunji"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/imanadetunji/">Iman Adetunji</a> is a current first-year Computer Science student and a Scholar in the Center for Women in Technology (CWIT) program at UMBC. Her interests include Machine Learning, cybersecurity, and software engineering. She is currently conducting research in the DREAM Lab as a part of the Louis Stokes Alliance for Minority Participation (LSAMP) Program at UMBC.
+    </div>
+</div>
+
+<br><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/auguste_kiendrebeogo.jpg' | relative_url }}" alt="" title="Auguste Kiendrebeogo"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+       <a href="https://www.linkedin.com/in/auguste-kiendrebeogo/">Auguste Kiendrebeogo</a> is a double major junior in Computer Science with the cybersecurity track and Information Systems student at the University of Maryland, Baltimore County (UMBC).  He is also a Scholarship for Service (SFS) scholarship awardee. His research interest includes the application of machine learning to cybersecurity.
+    </div>
+</div>
+
+<br><br>
