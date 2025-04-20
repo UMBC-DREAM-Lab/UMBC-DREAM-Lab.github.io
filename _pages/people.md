@@ -107,7 +107,7 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/Bharath_photo.jpg' | relative_url }}" alt="" title="Bharath Kumar Swargam"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       <a href="https://www.linkedin.com/in/bharathswargam/">Bharath Kumar Swargam</a> is a student in Master's in Data Science at UMBC. He is working on outlier detection in malware analysis.
+       <a href="https://www.linkedin.com/in/bharathswargam/">Bharath Kumar Swargam</a> is a current Master's student in Data Science at UMBC. His research focuses on applying data science and machine learning techniques to malware analysis. He is currently exploring the impact of outliers on cluster validity using clustering algorithms like K-Means LTS and HDBSCAN, along with outlier detection methods such as Local Outlier Factor (LOF) and Connectivity Outlier Factor (COF). His work aims to strengthen threat detection systems by improving clustering performance and uncovering actionable insights from outlier behavior.
     </div>
 </div>
 
