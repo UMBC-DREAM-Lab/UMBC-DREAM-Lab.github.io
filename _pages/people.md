@@ -93,11 +93,10 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/place_holder.jpg' | relative_url }}" alt="" title="Drew Barlow"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/headshots/drew.png' | relative_url }}" alt="" title="Drew Barlow"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-       Drew Barlow \n
-       Info forthcoming
+        <a href="https://www.linkedin.com/in/andrewdbarlow">Andrew (Drew) Barlow</a> is a Ph.D. student at UMBC and a red-team practitioner. His research investigates and develops binary obfuscation techniques such as Instruction Substitution, Spoofed Calling Conventions, and Control-Flow Graph (CFG) Poisoning to evade static analysis. He applies these methods in practice by developing adversarial payloads for the Red Team at Delta Dental of California, studying how defenses can be strengthened against sophisticated adversaries.
     </div>
 </div>
 
